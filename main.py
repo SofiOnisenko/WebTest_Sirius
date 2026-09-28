@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("Hello from MAIN!")
+=======
+print("Hello from FEATURE!")
+>>>>>>> feature/hello
